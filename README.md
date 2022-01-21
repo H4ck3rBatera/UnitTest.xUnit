@@ -1,11 +1,7 @@
 # *Project: Unit Test + xUnit + Ioc*
 
-------------
-
 ### About xUnit.net
 [xUnit](https://xunit.net/ "xUnit")
-
-------------
 
 ### Unit Test + IOC
 ```csharp
