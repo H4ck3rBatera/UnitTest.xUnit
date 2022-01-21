@@ -3,7 +3,7 @@
 ### About xUnit.net
 [xUnit](https://xunit.net/ "xUnit")
 
-### Unit Test + IOC
+### IOC
 ```csharp
 public class Startup
     {
